@@ -1,3 +1,7 @@
+Bootstrap:
+npm install
+bower install
+
 Building:
 grunt dev -- builds the app and runs tests
 grunt test -- runs just the karma tests
