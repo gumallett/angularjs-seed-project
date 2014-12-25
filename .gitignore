@@ -1,0 +1,8 @@
+.idea/
+.tmp/
+bower_components/
+build/
+node_modules/
+src/css/style.css
+*.iml
+index.html
